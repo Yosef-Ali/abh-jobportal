@@ -5,11 +5,11 @@ import { Select } from "../../components/Core";
 import imgP from "../../assets/image/patterns/globe-pattern.png";
 
 const defaultCountries = [
-  { value: "sp", label: "Singapore" },
-  { value: "bd", label: "Bangladesh" },
-  { value: "usa", label: "United States of America" },
-  { value: "uae", label: "United Arab Emirates" },
-  { value: "pk", label: "Pakistan" },
+  { value: "aa", label: "Addis Ababa" },
+  { value: "bd", label: "Bahir Dar" },
+  { value: "jm", label: "Jimma" },
+  { value: "dd", label: "Dire Dawa" },
+  { value: "ha", label: "Hawassa" },
 ];
 
 const Hero = () => {
